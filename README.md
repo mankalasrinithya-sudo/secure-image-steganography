@@ -77,6 +77,22 @@ http://127.0.0.1:5000
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/home_page.png)
+
+### Encoding Process
+![Encoding](screenshots/encoding_process.png)
+
+### Encoding Success
+![Success](screenshots/encoding_success.png)
+
+### Decoding Result
+![Decode](screenshots/decoded_message.png)
+
+---
+
 ## Future Improvements
 
 * Password protection
